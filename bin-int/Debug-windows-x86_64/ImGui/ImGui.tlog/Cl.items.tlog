@@ -1,5 +1,5 @@
-C:\dev\Holloware\Holloware\vendor\imgui\imgui.cpp;C:\dev\Holloware\Holloware\vendor\imgui\bin-int\Debug-windows-x86_64\ImGui\imgui.obj
-C:\dev\Holloware\Holloware\vendor\imgui\imgui_demo.cpp;C:\dev\Holloware\Holloware\vendor\imgui\bin-int\Debug-windows-x86_64\ImGui\imgui_demo.obj
-C:\dev\Holloware\Holloware\vendor\imgui\imgui_draw.cpp;C:\dev\Holloware\Holloware\vendor\imgui\bin-int\Debug-windows-x86_64\ImGui\imgui_draw.obj
-C:\dev\Holloware\Holloware\vendor\imgui\imgui_tables.cpp;C:\dev\Holloware\Holloware\vendor\imgui\bin-int\Debug-windows-x86_64\ImGui\imgui_tables.obj
-C:\dev\Holloware\Holloware\vendor\imgui\imgui_widgets.cpp;C:\dev\Holloware\Holloware\vendor\imgui\bin-int\Debug-windows-x86_64\ImGui\imgui_widgets.obj
+C:\dev\Perplex\PerplexCore\vendor\imgui\imgui.cpp;C:\dev\Perplex\PerplexCore\vendor\imgui\bin-int\Debug-windows-x86_64\ImGui\imgui.obj
+C:\dev\Perplex\PerplexCore\vendor\imgui\imgui_demo.cpp;C:\dev\Perplex\PerplexCore\vendor\imgui\bin-int\Debug-windows-x86_64\ImGui\imgui_demo.obj
+C:\dev\Perplex\PerplexCore\vendor\imgui\imgui_draw.cpp;C:\dev\Perplex\PerplexCore\vendor\imgui\bin-int\Debug-windows-x86_64\ImGui\imgui_draw.obj
+C:\dev\Perplex\PerplexCore\vendor\imgui\imgui_tables.cpp;C:\dev\Perplex\PerplexCore\vendor\imgui\bin-int\Debug-windows-x86_64\ImGui\imgui_tables.obj
+C:\dev\Perplex\PerplexCore\vendor\imgui\imgui_widgets.cpp;C:\dev\Perplex\PerplexCore\vendor\imgui\bin-int\Debug-windows-x86_64\ImGui\imgui_widgets.obj
